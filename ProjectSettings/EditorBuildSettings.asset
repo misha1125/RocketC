@@ -12,8 +12,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu/shop.unity
     guid: d875d170e8a0b8c438914535ba530bab
   - enabled: 1
-    path: Assets/Scenes/Menu/LevelMenu.unity
-    guid: 035980f8e51f64a42b9a507d160001ef
+    path: Assets/Scenes/Menu/ChooseLocations.unity
+    guid: 4dcba879817cd2a43a459b8ab1f336c4
   - enabled: 1
     path: Assets/Scenes/Menu/LevelMenu/location1.unity
     guid: 79722c9a94d392843a66d54afad7b4c0
@@ -53,4 +53,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu/LevelMenu/resp.unity
     guid: 50ee0ca51cae5814c9f81aed3f5735c5
+  - enabled: 0
+    path: Assets/Scenes/Menu/LevelMenu.unity
+    guid: 035980f8e51f64a42b9a507d160001ef
   m_configObjects: {}
