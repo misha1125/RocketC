@@ -21,7 +21,7 @@ public class CommonPlayerController : MonoBehaviour {
 #if UNITY_EDITOR
 
 //на лине эта херня работает неправильно, на винде можно раскоментить, только не комитте 
- /*        _isAcel = Input.GetButton("Vertical");
+       /*  _isAcel = Input.GetButton("Vertical");
         if (Input.GetKey(KeyCode.LeftArrow))
         {
             _turnDirection = -1;
@@ -34,7 +34,7 @@ public class CommonPlayerController : MonoBehaviour {
         {
             _turnDirection = 0;
         } 
-        */
+      */  
 #endif
        
         PlayerLogic.Instance.Acelerate(_isAcel);
